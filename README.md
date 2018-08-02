@@ -1,2 +1,2 @@
 # VECoursework
-VE Coursework
+Virtual Environment Coursework
